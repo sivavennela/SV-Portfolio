@@ -5,7 +5,7 @@ Hi, I’m **Siva Vennela**, a python Developer passionate about backend developm
 This is my personal portfolio website showcasing my projects, skills, and a bit about me.
 
 🔗 **Check it out live here:**  
-[👉 Visit My Portfolio](https://github.com/sivavennela/My-Portfolio.git)
+[👉 Visit My Portfolio](https://github.com/sivavennela)
 
 ## About Me
 
